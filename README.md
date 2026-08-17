@@ -5,13 +5,13 @@ Hello, I'm Mia! Data Analyst in training with a focus in preparing raw datasets,
 - Building data visualization and Dashboards using Tableau and Power BI
 - Utilizing Libraries like pandas for data manipulation with Python
 
-🚧 **<ins>Projects</ins>** 🚧
+🚧 **<ins>Projects</ins>** 🚧\
 I've worked hard to cultivate my projects, come take a look! projects.
 
-🖥️ **<ins>Tools</ins>** 🖥️
-<ins>Language:</ins> SQL, Python
-<ins>Database:</ins> 
-<ins>Visualization:</ins> Tableau, Power BI
+🖥️ **<ins>Tools</ins>** 🖥️\
+<ins>Language:</ins> SQL, Python\
+<ins>Database:</ins> \
+<ins>Visualization:</ins> Tableau, Power BI\
 
 👋🏻 **<ins>Socials</ins>** 👋🏻
 - [Linkedin](https://www.linkedin.com/in/mia-adams-b9abb3217/)
